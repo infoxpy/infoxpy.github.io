@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:20
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="https://m3.xaisayu.com/video/a08e69adeef3ed0b.key",IV=0x00000000000000000000000000000000
+#EXTINF:20.000000,
+https://m3.xaisayu.com/video/d9/aa0c81/e8f735ca.ts
+#EXTINF:20.000000,
+https://m3.xaisayu.com/video/d0/b654e6/594eb468.ts
+#EXTINF:20.000000,
+https://m3.xaisayu.com/video/93/6f40cc/920814bc.ts
+#EXTINF:20.000000,
+https://m3.xaisayu.com/video/91/a20950/eba79b02.ts
+#EXTINF:13.080000,
+https://m3.xaisayu.com/video/00/44ec8c/a8d62307.ts
+#EXT-X-ENDLIST
